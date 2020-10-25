@@ -1,4 +1,4 @@
-// WifiLocation.h
+// WifiGeoLocation.h
 
 #ifndef _WIFILOCATION_h
 #define _WIFILOCATION_h
